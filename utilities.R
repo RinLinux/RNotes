@@ -1,4 +1,5 @@
 
+# https://stackoverflow.com/questions/15155814/check-if-r-package-is-installed-then-load-library
 # Check if R package is installed then load library
 install_load <- function (package1, ...)  {   
   packages <- c(package1, ...)
