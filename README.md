@@ -1,2 +1,2 @@
-:notes: # notes for learning R
-Notes for learning R
+# notes for learning R
+:notes:  Notes for learning R
