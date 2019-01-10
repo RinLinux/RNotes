@@ -1,2 +1,2 @@
-# note4R
-Notes for learning python
+:notes: # notes for learning R
+Notes for learning R
