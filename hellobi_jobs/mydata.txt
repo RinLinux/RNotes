@@ -1,0 +1,188 @@
+job_item	job_links	job_info	job_salary	job_origin
+1	医药数据产品和拍卖数据产品各一名	https://www.hellobi.com/job/187	北京集团总部|3-5年经验|本科	20-40K	京东
+2	上海+万得资讯+机器学习带头人	https://www.hellobi.com/job/185	上海 南京|5-10年经验|硕士	20-60K	万得资讯
+3	上海+万得资讯+量化产品经理带头人	https://www.hellobi.com/job/184	上海|3-5年经验|硕士	20-30K	万得资讯
+4	上海+万得资讯+交易产品经理	https://www.hellobi.com/job/186	上海|3-5年经验|本科	15-25K	万得资讯
+5	大数据售前/售后技术支持	https://www.hellobi.com/job/183	上海|1-3年经验|本科	15-25K	宜嘉科技
+6	上海-菲斯科-BI架构师	https://www.hellobi.com/job/182	上海|3-5年经验|本科	15-25K	菲斯科软件
+7	北京、上海-铂金智慧-售前咨询（解决方案）	https://www.hellobi.com/job/180	北京 上海|3-5年经验|本科	8-20K	铂金智慧
+8	北京-埃睿迪-大数据架构师	https://www.hellobi.com/job/181	北京|5-10年经验|本科	16-30K	iReadyIT
+9	运营开发工程师	https://www.hellobi.com/job/178	深圳|3-5年经验|本科	20-40K	腾讯
+10	​高级数据运营工程师	https://www.hellobi.com/job/179	深圳|3-5年经验|本科	20-40K	腾讯
+11	前端开发工程师	https://www.hellobi.com/job/177	深圳|3-5年经验|本科	20-40K	腾讯
+12	数据产品专家	https://www.hellobi.com/job/176	上海|3-5年经验|本科	25-40K	蜻蜓FM
+13	数据分析助理	https://www.hellobi.com/job/175	杭州|1-3年经验|本科	8-15K	立和传播
+14	数据分析师（资深）	https://www.hellobi.com/job/174	杭州|5-10年经验|本科	15-30K	立和传播
+15	高级Python数据与爬虫工程师（带团队）	https://www.hellobi.com/job/172	北京|5-10年经验|本科	25-35K	随行付
+16	爬虫工程师	https://www.hellobi.com/job/173	北京|3-5年经验|本科	15-25K	随行付
+17	数据库开发工程师	https://www.hellobi.com/job/171	广州|应届生经验|本科	5-10K	华胜
+18	数据分析师	https://www.hellobi.com/job/170	广州|应届生经验|本科	8-10K	华胜
+19	国际化推广经理	https://www.hellobi.com/job/169	北京|3-5年经验|不限	10-20K	润乾
+20	文档&专利工程师	https://www.hellobi.com/job/168	北京|不限经验|本科	10-20K	润乾
+21	高级文档与培训师	https://www.hellobi.com/job/167	北京|不限经验|本科	20-30K	润乾
+22	系统与算法程序员	https://www.hellobi.com/job/166	北京|不限经验|本科	20-30K	润乾
+23	丰田汽车金融风险管理部 零售信用风险实习生 Retail credit risk intern	https://www.hellobi.com/job/165	北京|不限经验|本科	2-3K	丰田汽车
+24	大数据产品经理	https://www.hellobi.com/job/164	上海|3-5年经验|本科	15-30K	美团点评
+25	数据开发工程师	https://www.hellobi.com/job/163	上海|3-5年经验|本科	15-30K	美团点评
+26	数据分析师	https://www.hellobi.com/job/162	上海|3-5年经验|本科	15-30K	美团点评
+27	机器学习/算法工程师	https://www.hellobi.com/job/161	上海|3-5年经验|本科	15-30K	大众点评
+28	数据分析工程师	https://www.hellobi.com/job/160	上海|3-5年经验|本科	15-30K	大众点评
+29	政府行业区域销售副总监	https://www.hellobi.com/job/159	北京|5-10年经验|大专	20-30K	永洪科技
+30	销售总监	https://www.hellobi.com/job/158	上海|5-10年经验|本科	15-25K	达观数据
+31	推荐算法研发工程师	https://www.hellobi.com/job/29	上海|3-5年经验|本科	15-30K	达观数据
+32	NLP自然语言处理研发工程师	https://www.hellobi.com/job/28	上海|3-5年经验|硕士	15-30K	达观数据
+33	上海-菲斯科-R语言开发工程师	https://www.hellobi.com/job/157	上海|3-5年经验|本科	15-25K	菲斯科软件
+34	上海-菲斯科-微软BI初、中、高级工程师	https://www.hellobi.com/job/38	上海|1-3年经验|本科	10-25K	菲斯科软件
+35	易立德咨询-成都-BI项目经理	https://www.hellobi.com/job/156	成都|5-10年经验|本科	15-30K	易立德咨询
+36	北京-云游九州-CTO / 架构师	https://www.hellobi.com/job/155	北京-海淀区|5-10年经验|本科	20-30K	云游九州
+37	北京-云游九州-中高级算法工程师（C/C++）	https://www.hellobi.com/job/154	北京-海淀区|3-5年经验|本科	15-25K	云游九州
+38	大数据开发	https://www.hellobi.com/job/153	上海|3-5年经验|本科	15-25K	证通股份
+39	BO高级顾问	https://www.hellobi.com/job/152	上海|5-10年经验|本科	15-20K	柯内特
+40	北京-欧立腾-数据工程师（ETL）	https://www.hellobi.com/job/151	北京|应届生经验|本科	10-12K	欧立腾
+41	北京-永洪-渠道拓展经理	https://www.hellobi.com/job/150	北京|3-5年经验|本科	15-20K	永洪科技
+42	北京-埃睿迪-软件销售	https://www.hellobi.com/job/149	北京|1-3年经验|大专	8-10K	iReadyIT
+43	北京-埃睿迪-大客户销售经理	https://www.hellobi.com/job/148	北京|3-5年经验|大专	15-20K	iReadyIT
+44	北京-远景视点-BI工程师（Cognos）	https://www.hellobi.com/job/147	北京|1-3年经验|本科	14-20K	观景视点
+45	销售总监	https://www.hellobi.com/job/146	北京|5-10年经验|本科	20-30K	德塔精要
+46	数据分析师（T3）	https://www.hellobi.com/job/145	深圳总部|3-5年经验|本科	30-50K	腾讯
+47	数据库管理员	https://www.hellobi.com/job/144	上海|1-3年经验|本科	10-20K	东证研究院
+48	爬虫工程师	https://www.hellobi.com/job/143	上海|1-3年经验|本科	10-20K	东证研究院
+49	 数据库开发工程师	https://www.hellobi.com/job/142	广州|1-3年经验|不限	8-18K	柯内特
+50	3C事业部R语言开发人员	https://www.hellobi.com/job/141	北京|1-3年经验|本科	15-25K	京东
+51	蚂蚁金服资深数据分析师	https://www.hellobi.com/job/139	杭州|3-5年经验|本科	30-60K	蚂蚁金服
+52	高级/资深搜索开发工程师	https://www.hellobi.com/job/140	上海|3-5年经验|本科	25-50K	达观数据
+53	大数据分析师	https://www.hellobi.com/job/138	上海|1-3年经验|本科	12-18K	中软华腾
+54	数据统计与分析	https://www.hellobi.com/job/137	北京-朝阳区|3-5年经验|本科	10-15K	原麦山丘
+55	销售总监（北方区域leader ）	https://www.hellobi.com/job/136	北京|5-10年经验|本科	15-20K	达观数据
+56	大数据技术合伙人（总监级及以上）	https://www.hellobi.com/job/135	深圳|5-10年经验|本科	25-40K	前海帕拓逊
+57	产品经理	https://www.hellobi.com/job/134	北京|3-5年经验|硕士	20-40K	云客
+58	Gowth Hacker	https://www.hellobi.com/job/133	北京|3-5年经验|本科	20-40K	铂金智慧
+59	数据分析岗（营销与运营方向）	https://www.hellobi.com/job/132	北京|3-5年经验|本科	15-30K	中关村银行
+60	大客户销售经理	https://www.hellobi.com/job/99	上海 北京 深圳|1-3年经验|大专	10-20K	达观数据
+61	AI人工智能负责人	https://www.hellobi.com/job/130	上海 南京|5-10年经验|本科	30-60K	万得资讯
+62	高级Java工程师	https://www.hellobi.com/job/116	北京|5-10年经验|本科	20-30K	铂金智慧
+63	BI工程师	https://www.hellobi.com/job/131	北京|3-5年经验|本科	15-30K	铂金智慧
+64	高级数据集成工程师	https://www.hellobi.com/job/128	苏州|5-10年经验|本科	15-25K	西格数据
+65	高级数据分析师	https://www.hellobi.com/job/129	苏州|5-10年经验|本科	15-25K	西格数据
+66	高级产品经理（数据方向）	https://www.hellobi.com/job/127	北京|5-10年经验|本科	20-40K	铂金智慧
+67	大数据研发工程师	https://www.hellobi.com/job/126	北京|3-5年经验|本科	15-25K	登云健康
+68	JAVA爬虫架构师	https://www.hellobi.com/job/125	上海|3-5年经验|本科	20-40K	介末数据
+69	报表开发	https://www.hellobi.com/job/123	北京|1-3年经验|本科	15-25K	随行付
+70	Java开发工程师（大数据方向）	https://www.hellobi.com/job/124	北京|3-5年经验|本科	15-30K	随行付
+71	大数据挖掘工程师	https://www.hellobi.com/job/122	北京|3-5年经验|本科	15-30K	随行付
+72	数仓模型设计师	https://www.hellobi.com/job/121	杭州|3-5年经验|本科	20-40K	恩牛网络
+73	高级Spark工程师（大数据工程师）	https://www.hellobi.com/job/120	北京|5-10年经验|本科	20-30K	铂金智慧
+74	资深BI分析师	https://www.hellobi.com/job/119	广州|3-5年经验|本科	15-25K	棒谷网络
+75	数据仓库工程师（3人）	https://www.hellobi.com/job/118	北京|3-5年经验|本科	15-30K	易通贷
+76	大数据开发工程师（3人）	https://www.hellobi.com/job/117	北京|3-5年经验|本科	20-35K	易通贷
+77	推荐算法研发工程师	https://www.hellobi.com/job/58	上海|1-3年经验|本科	10-20K	达观数据
+78	资深售前顾问	https://www.hellobi.com/job/115	北京|5-10年经验|本科	20-30K	德塔精要
+79	Pre Sales Consultant	https://www.hellobi.com/job/114	北京|5-10年经验|本科	50-70K	Qlik
+80	数据分析师—数据挖掘及专项研究 方向 	https://www.hellobi.com/job/113	北京|3-5年经验|本科	15-30K	京东
+81	大数据应用和分析咨询顾问	https://www.hellobi.com/job/112	上海 广州|3-5年经验|本科	10-30K	安永
+82	大数据	https://www.hellobi.com/job/111	北京|1-3年经验|本科	10-20K	铂金智慧
+83	高级产品经理	https://www.hellobi.com/job/110	北京|5-10年经验|本科	20-30K	铂金智慧
+84	高级前端开发	https://www.hellobi.com/job/109	北京|3-5年经验|本科	30-50K	铂金智慧
+85	技术支持工程师	https://www.hellobi.com/job/108	珠海|1-3年经验|大专	8-12K	奥威软件
+86	实施工程师	https://www.hellobi.com/job/107	珠海|1-3年经验|大专	8-12K	奥威软件
+87	市场运营经理 / 市场推广经理	https://www.hellobi.com/job/104	杭州|3-5年经验|本科	12-24K	观远数据
+88	解决方案顾问(售前顾问 / 解决方案专家）	https://www.hellobi.com/job/106	杭州|3-5年经验|本科	12-24K	观远数据
+89	销售经理（大客户经理 / 销售顾问 / 销售总监）	https://www.hellobi.com/job/105	上海|3-5年经验|本科	15-30K	观远数据
+90	MPP数据库/数据仓库产品支持工程师	https://www.hellobi.com/job/103	郑州|3-5年经验|大专	10-15K	昆仑联通
+91	新媒体运营	https://www.hellobi.com/job/102	北京|1-3年经验|本科	10-15K	铂金智慧
+92	数据分析师	https://www.hellobi.com/job/101	上海|3-5年经验|本科	10-16K	数宣数据
+93	售前工程师	https://www.hellobi.com/job/100	上海 北京 深圳|1-3年经验|本科	10-20K	达观数据
+94	 UI设计工程师	https://www.hellobi.com/job/98	北京|1-3年经验|本科	8-15K	永洪科技
+95	JAVA研发工程师	https://www.hellobi.com/job/97	成都、北京|1-3年经验|本科	10-20K	永洪科技
+96	高级项目经理	https://www.hellobi.com/job/96	北京、上海、深圳|5-10年经验|本科	15-30K	永洪科技
+97	实施工程师	https://www.hellobi.com/job/95	北京、上海、深圳|3-5年经验|本科	10-15K	永洪科技
+98	售前工程师	https://www.hellobi.com/job/94	北京、上海、成都|3-5年经验|大专	10-18K	永洪科技
+99	 自然语言处理算法工程师	https://www.hellobi.com/job/93	上海|3-5年经验|本科	20-40K	星环
+100	前端架构师	https://www.hellobi.com/job/92	北京|5-10年经验|本科	30-60K	铂金智慧
+101	数据挖掘专家 or 算法专家（机器学习）	https://www.hellobi.com/job/91	杭州|3-5年经验|本科	15-40K	赞分期
+102	系统开发	https://www.hellobi.com/job/90	山东省滨州市|1-3年经验|本科	10-15K	京博
+103	开发主管	https://www.hellobi.com/job/89	山东省滨州市|5-10年经验|本科	10-20K	京博
+104	大数据工程师	https://www.hellobi.com/job/88	山东省滨州市|1-3年经验|本科	10-15K	京博
+105	OBIEE开发工程师（2人）	https://www.hellobi.com/job/87	山东省滨州市|1-3年经验|本科	10-15K	京博
+106	ETL开发工程师（4人）	https://www.hellobi.com/job/86	山东省滨州市|1-3年经验|本科	10-15K	京博
+107	自然语言处理	https://www.hellobi.com/job/85	北京|3-5年经验|硕士	20-35K	明和高科
+108	数据挖掘工程师	https://www.hellobi.com/job/84	北京|1-3年经验|本科	10-20K	明和高科
+109	算法工程师	https://www.hellobi.com/job/83	北京|3-5年经验|本科	15-30K	明和高科
+110	ETL开发工程师（2人）	https://www.hellobi.com/job/82	北京|1-3年经验|本科	10-20K	明和高科
+111	大数据开发工程师（4-5人）	https://www.hellobi.com/job/81	北京|3-5年经验|本科	10-25K	明和高科
+112	大数据架构师	https://www.hellobi.com/job/80	北京|5-10年经验|本科	20-40K	明和高科
+113	大数据系统架构师 （技术合伙人）	https://www.hellobi.com/job/79	上海|5-10年经验|本科	30-50K	千匠网络
+114	高级数据分析师-平台运营	https://www.hellobi.com/job/78	北京|3-5年经验|本科	20-40K	滴滴出行
+115	运营分析专家	https://www.hellobi.com/job/77	长春|3-5年经验|大专	15-20K	滴滴出行
+116	数据仓库工程师	https://www.hellobi.com/job/76	上海|3-5年经验|本科	15-25K	坤睿咨询
+117	算法专家 /高级算法专家	https://www.hellobi.com/job/74	上海|3-5年经验|本科	20-40K	饿了么
+118	高级/资深算法专家	https://www.hellobi.com/job/75	上海|5-10年经验|硕士	30-60K	饿了么
+119	高级数据分析师	https://www.hellobi.com/job/73	苏州|3-5年经验|本科	15-30K	同程旅游
+120	推荐算法工程师 	https://www.hellobi.com/job/72	上海|3-5年经验|本科	15-30K	Soul
+121	数据仓库与数据分析工程师  	https://www.hellobi.com/job/71	上海|3-5年经验|本科	15-30K	Soul
+122	铁路行业销售副总监（北京）	https://www.hellobi.com/job/70	北京|10年以上经验|本科	15-25K	永洪科技
+123	航空行业销售副总监（北京）	https://www.hellobi.com/job/69	北京|5-10年经验|大专	15-25K	永洪科技
+124	华东区渠道销售副总监（上海）	https://www.hellobi.com/job/68	上海|5-10年经验|大专	15-25K	永洪科技
+125	前端工程师	https://www.hellobi.com/job/67	深圳|5-10年经验|大专	15-25K	软通动力
+126	财经需求分析	https://www.hellobi.com/job/66	深圳|10年以上经验|不限	15-25K	软通动力
+127	数据挖掘工程师	https://www.hellobi.com/job/65	深圳|3-5年经验|大专	10-25K	软通动力
+128	BI实施顾问/实施工程师	https://www.hellobi.com/job/64	北京|3-5年经验|大专	10-20K	京创曙光
+129	实时计算开发工程师	https://www.hellobi.com/job/63	上海|1-3年经验|硕士	15-30K	星环
+130	Spark开发工程师	https://www.hellobi.com/job/61	上海|1-3年经验|硕士	15-30K	星环
+131	大数据云后端开发工程师	https://www.hellobi.com/job/62	上海|1-3年经验|硕士	15-30K	星环
+132	高级推荐算法工程师	https://www.hellobi.com/job/60	成都|5-10年经验|本科	15-30K	多点
+133	售前工程师	https://www.hellobi.com/job/59	上海|5-10年经验|大专	10-20K	达观数据
+134	爬虫开发工程师	https://www.hellobi.com/job/57	上海|1-3年经验|不限	15-20K	爱客CRM
+135	后端开发工程师	https://www.hellobi.com/job/56	上海|不限经验|不限	15-20K	爱客CRM
+136	数据分析师	https://www.hellobi.com/job/55	北京|应届生经验|硕士	8-15K	国电通公司
+137	大数据高级分析师	https://www.hellobi.com/job/54	北京|3-5年经验|硕士	25-50K	国电通公司
+138	系统建设工程师	https://www.hellobi.com/job/53	北京|3-5年经验|本科	20-40K	恒丰银行
+139	数据应用	https://www.hellobi.com/job/52	北京|3-5年经验|本科	20-40K	恒丰银行
+140	数据挖掘分析师	https://www.hellobi.com/job/51	广州|应届生经验|本科	3-8K	柯内特
+141	数据仓库工程师	https://www.hellobi.com/job/50	北京|3-5年经验|本科	15-30K	玖富
+142	数据分析师	https://www.hellobi.com/job/49	北京|3-5年经验|本科	15-30K	玖富
+143	资深BI开发工程师	https://www.hellobi.com/job/48	北京|3-5年经验|本科	15-30K	玖富
+144	高级大数据开发（spark实时流式计算）	https://www.hellobi.com/job/47	北京|3-5年经验|本科	15-30K	玖富
+145	高级java开发（大数据）	https://www.hellobi.com/job/46	北京|3-5年经验|不限	15-30K	玖富
+146	数据产品经理	https://www.hellobi.com/job/45	北京|3-5年经验|本科	15-30K	玖富
+147	售前顾问	https://www.hellobi.com/job/44	上海|5-10年经验|本科	15-25K	美林数据
+148	大数据开发经理	https://www.hellobi.com/job/43	上海|5-10年经验|大专	25-35K	贝泰妮
+149	数据挖掘工程师	https://www.hellobi.com/job/42	北京|5-10年经验|本科	20-30K	完美世界
+150	数据挖掘工程师	https://www.hellobi.com/job/41	北京|3-5年经验|本科	25-50K	京东
+151	BI 业务需求规划工程师	https://www.hellobi.com/job/40	上海|1-3年经验|本科	15-20K	上海知名服装零售公司
+152	微软BI工程师	https://www.hellobi.com/job/39	上海|3-5年经验|本科	20-30K	彰荣地产
+153	数据分析副总监	https://www.hellobi.com/job/37	北京|5-10年经验|本科	30-50K	伊利
+154	产品经理	https://www.hellobi.com/job/36	上海|3-5年经验|本科	10-18K	发源地
+155	爬虫工程师	https://www.hellobi.com/job/35	上海|1-3年经验|本科	8-15K	发源地
+156	大数据	https://www.hellobi.com/job/34	上海|1-3年经验|本科	12-25K	发源地
+157	JAVA高级开发工程师	https://www.hellobi.com/job/33	上海|3-5年经验|本科	12-15K	Smartbi
+158	JAVA开发工程师	https://www.hellobi.com/job/32	北京|3-5年经验|本科	10-15K	Smartbi
+159	BI实施顾问	https://www.hellobi.com/job/31	北京|1-3年经验|大专	8-10K	Smartbi
+160	BI售前工程师	https://www.hellobi.com/job/30	北京|1-3年经验|本科	10-15K	Smartbi
+161	数据挖掘工程师	https://www.hellobi.com/job/27	上海|3-5年经验|硕士	15-30K	达观数据
+162	自然语言处理专家	https://www.hellobi.com/job/26	上海|3-5年经验|本科	40-80K	订餐小秘书
+163	大数据研发负责人	https://www.hellobi.com/job/25	苏州|5-10年经验|本科	30-50K	同程旅游
+164	金融客户部-高级销售经理/区域总监	https://www.hellobi.com/job/24	北京，上海|5-10年经验|本科	15-20K	永洪科技
+165	证券保险行业销售副总监	https://www.hellobi.com/job/23	上海|10年以上经验|大专	20-25K	永洪科技
+166	银行行业销售副总监	https://www.hellobi.com/job/22	上海，深圳|10年以上经验|大专	20-25K	永洪科技
+167	大数据研发工程师	https://www.hellobi.com/job/21	北京|5-10年经验|本科	15-20K	罗格数据
+168	Web前端	https://www.hellobi.com/job/20	北京|3-5年经验|本科	15-20K	罗格数据
+169	产品经理	https://www.hellobi.com/job/19	北京|3-5年经验|大专	12-22K	罗格数据
+170	数据编辑	https://www.hellobi.com/job/18	北京|1-3年经验|本科	6-8K	塔塔数据
+171	数据分析师	https://www.hellobi.com/job/17	北京|1-3年经验|本科	8-10K	塔塔数据
+172	技术总监	https://www.hellobi.com/job/16	北京|5-10年经验|本科	15-20K	塔塔数据
+173	大数据工程师	https://www.hellobi.com/job/15	北京|5-10年经验|本科	10-15K	塔塔数据
+174	BI售前顾问总监	https://www.hellobi.com/job/14	北京|5-10年经验|本科	12-22K	马达数据
+175	项目经理	https://www.hellobi.com/job/13	北京|3-5年经验|本科	15-25K	ETHINKBI
+176	售后	https://www.hellobi.com/job/12	北京|1-3年经验|本科	10-20K	ETHINKBI
+177	售前工程师	https://www.hellobi.com/job/11	北京|1-3年经验|本科	10-20K	ETHINKBI
+178	BI项目经理	https://www.hellobi.com/job/10	北京|5-10年经验|本科	15-25K	iReadyIT
+179	技术总监	https://www.hellobi.com/job/9	北京|3-5年经验|本科	25-30K	iReadyIT
+180	测试	https://www.hellobi.com/job/7	广州|3-5年经验|本科	12-25K	卓越教育
+181	高级运营经理	https://www.hellobi.com/job/6	广州|3-5年经验|本科	12-25K	卓越教育
+182	在线课堂产品策划	https://www.hellobi.com/job/8	广州|3-5年经验|硕士	15-30K	卓越教育
+183	Java全栈开发工程师	https://www.hellobi.com/job/5	广州|3-5年经验|本科	15-30K	卓越教育
+184	在线围棋产品经理	https://www.hellobi.com/job/4	广州|3-5年经验|本科	20-40K	卓越教育
+185	数据科学家	https://www.hellobi.com/job/3	广州|3-5年经验|硕士	30-50K	卓越教育
+186	 高级自动化测试工程师	https://www.hellobi.com/job/2	北京|3-5年经验|本科	15-20K	铂金智慧
+187	 Python开发工程师	https://www.hellobi.com/job/1	北京|1-3年经验|本科	15-20K	铂金智慧

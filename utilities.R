@@ -13,3 +13,9 @@ install_load <- function (package1, ...)  {
   } 
 }
 install_load("optparse","ggplot2","gplots","reshape2")
+
+if (!requireNamespace("BiocManager", quietly=TRUE))
+  install.packages("BiocManager")
+
+
+BiocManager::install("ComplexHeatmap")
