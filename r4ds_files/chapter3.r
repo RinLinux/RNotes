@@ -39,10 +39,12 @@ filter(flights, between(month,7,9))
 filter(flights, !between(dep_time, 601, 2359))
 
 
-# 3. How many flights have a missing dep_time? What other variables are missing? What might these rows represent?
+# 3 dep_time 有缺失值的航班有多少？其他变量的缺失值情况如何？这样的行表示什么情况？
 filter(flights, is.na(dep_time))
 nrow(filter(flights, is.na(dep_time)))
 
+summary(flights)
+dep_time缺失值有8255个
 
 # 4. Why is NA ^ 0 not missing? Why is NA | TRUE not missing?
 # Why is FALSE & NA not missing? Can you figure out the general
