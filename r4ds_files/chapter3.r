@@ -43,11 +43,10 @@ filter(flights, is.na(dep_time))
 nrow(filter(flights, is.na(dep_time)))
 
 summary(flights)
-dep_time缺失值有8255个
+# dep_time缺失值有8255个
 
-# 4. Why is NA ^ 0 not missing? Why is NA | TRUE not missing?
-# Why is FALSE & NA not missing? Can you figure out the general
-# rule? (NA * 0 is a tricky counterexample!)
+# 4. 为什么 NA ^ 0 的值不是 NA ？为什么 NA | TRUE 的值不是 NA ？
+# 为什么 FALSE & NA 的值不是 NA ？你能找出一般规律吗？（NA * 0 则是精妙的反例！）
 
 # 任何数的0次幂都是1；任何值与TRUE取或运算都是TRUE；FALSE取与运算都是FALSE
 
